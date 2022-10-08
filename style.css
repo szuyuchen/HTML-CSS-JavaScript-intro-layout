@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+}
+
+.container {
+ background-color: rgb(246, 161, 144); 
+}
+ 
+.greeting {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.greetingContainer {
+  flex: 3;
+}
+
+.greetingImgContainer {
+  flex: 1;
+}
+
+.greetingText {
+  color: rgb(38, 96, 150);
+  font-size: 18vw;
+  cursor: default;
+}
+
+.greetingImg {
+  width: 100%;
+}
+
+.nameContainer {
+  height: 100vh;
+  background-color: #fff;
+}
+
+.name {
+  font-size: 15vw;
+  color: rgb(38, 96, 150);
+  cursor: default;
+  text-align: center;
+  line-height: 100vh;
+}
+
+.jobTitleContainer {
+  height: 100vh;
+}
+
+.pink {
+  background:rgb(240, 202, 237) url("./images/bg2.png");
+}
+
+.jobTitle {
+  font-size: 10vw;
+  color: #333;
+  line-height: 100vh;
+  cursor: default;
+}
