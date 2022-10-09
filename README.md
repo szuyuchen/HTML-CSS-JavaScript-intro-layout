@@ -6,7 +6,9 @@
 
 <img src="https://github.com/szuyuchen/HTML-CSS-intro-layout/blob/main/sample-image.png?raw=true" width=500>
 
-1009 Add project section with relevant images.
+10/08 Create greeting section.
+
+10/09 Add project section with relevant images.
 
 ### Page link:
 
